@@ -1,0 +1,7 @@
+first i created the public repository.
+after that i launch the ec2 instance and connected to the mobax.
+after that in locan git and jenkins.
+i created the docker file.
+and inside file i gave some instructions.
+i wrote hello world program.
+in that main.yml i did git hub actions build and test.
